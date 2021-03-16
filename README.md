@@ -1,3 +1,3 @@
-#git-ess
+#git-essentials
 
-This is Editing
+We Edit This File.
